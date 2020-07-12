@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Taghreed Alghamdi"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Taghreed Alghamdi Portfolio"
+  bio              : #"Taghreed Alghamdi Portfolio"
   location         : "Oshawa, Ontario"
   email            :
   uri              :
