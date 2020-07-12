@@ -1,10 +1,8 @@
 ---
 layout: posts
 permalink: /data-wrangling/
-title: "Data Wrangling projects"
+title: "Publications"
 author_profile: true
 header:
   image: "/images/fort point.png"
 ---
-
-
