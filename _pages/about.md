@@ -5,6 +5,4 @@ header:
   image: "/images/bio.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+Taghreed Alghamdi is a Ph.D. student in Computer Science at  Ontario Tech University where here research Her research implores a focus on big data analytics, data mining and computational tools, with a special interest in machine learning, and real-time analysis. More recently, her current research is in the Internet of Things (IoT) and in particular smart city services where by leveraging IoT it can provide reliable smart city services and enhancing the effectiveness of city services. The focuses of her research is identifying the best practices for managing big data within a community, while implementing a comprehensive plan for growth in a traffic region.
