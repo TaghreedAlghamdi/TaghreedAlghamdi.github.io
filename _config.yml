@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taghreed Alghamdi Homepage"
+title                    : "Welcome to Taghreed Alghamdi Homepage"
 title_separator          : "-"
 name                     : "Tahreed Alghamdi"
 description              : #"Data Science Portfolio"
