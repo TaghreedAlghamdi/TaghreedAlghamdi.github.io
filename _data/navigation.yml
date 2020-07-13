@@ -4,7 +4,10 @@ main:
     url: /about/
   - title: "Publications"
     url: /data-wrangling/
-    
+  - title: "Skills"
+    url: /Skills/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
