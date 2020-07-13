@@ -3,11 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Publications"
-    url: /data-wrangling/
-  - title: "Skills"
-    url: /Skills/
-  - title: "Sample Posts"
-    url: /year-archive/
+    url: /publications/
   - title: "CV"
     url: /cv/
   - title: "Teaching"
