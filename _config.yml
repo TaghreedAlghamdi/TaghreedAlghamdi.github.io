@@ -88,7 +88,7 @@ author:
   avatar           : "/images/bio-pic-2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"Taghreed Alghamdi Portfolio"
   location         : "Oshawa, Ontario, CA"
-  email            :
+  email            : "Taghreed.alshurihi@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
