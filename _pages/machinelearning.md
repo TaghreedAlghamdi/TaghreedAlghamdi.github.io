@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /projects/
+title: "Publications & Projects"
 author_profile: true
 header:
   image: "/images/IoT.jpg"

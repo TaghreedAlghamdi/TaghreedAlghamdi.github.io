@@ -3,11 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Publiactions & Projects"
-    url: /data-wrangling/
-  - title: "Publications"
-    url: /publications/
-  - title: "Publications & Projects"
-    url: /publications1/
+    url: /projects/
   - title: "C.V"
     url: /cv/
   - title: "Teaching"
