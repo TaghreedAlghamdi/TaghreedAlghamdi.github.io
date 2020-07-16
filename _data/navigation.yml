@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Wrangling Projects"
+  - title: "Publiactions & Projects"
     url: /data-wrangling/
   - title: "Publications"
     url: /publications/
