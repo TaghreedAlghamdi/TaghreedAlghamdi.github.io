@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "welcome to Taghreed Alghamdi Page"
+title                    : "Welcome to Taghreed Alghamdi Page"
 title_separator          : "-"
 name                     : "Tahgreed Alghamdi"
 description              : " "
@@ -87,7 +87,7 @@ author:
   name             : "Taghreed Alghamdi"
   avatar           : "/images/bio-pic-2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. student at Ontario Tech Univeristy"
-  location         : "Oshawa, Ontario, Canada "
+  location         : "Oshawa, ON, Canada"
   email            : " taghreed.alshurihi@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
