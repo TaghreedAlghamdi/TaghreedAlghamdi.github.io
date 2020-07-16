@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# TaghreedAlghamdi.github.io
-Taghreed Alghamdi profile
-=======
 # [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt)
@@ -244,4 +240,3 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2017 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
->>>>>>> Initial commit
