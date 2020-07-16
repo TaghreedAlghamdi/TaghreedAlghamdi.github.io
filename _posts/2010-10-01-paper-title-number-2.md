@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Forecasting Traffic Congestion Using ARIMA Modeling"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'This paper leverages ARIMA-based modeling to study some factors that significantly affect the rate of traffic congestion. We present a short-term time series model for non-Gaussian traffic data. The model helps decision-makers to better manage traffic congestion by capturing and predicting any abnormal status. We begin by highlighting the characteristics and structure of the dataset that negatively impact the performance of time series analysis.'
+date: 2019-06-28
+venue: '2019 15th International Wireless Communications & Mobile Computing Conference (IWCMC)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: ''T. Alghamdi, K. Elgazzar, M. Bayoumi, T. Sharaf and S. Shah, "Forecasting Traffic Congestion Using ARIMA Modeling," 2019 15th International Wireless Communications & Mobile Computing Conference (IWCMC), Tangier, Morocco, 2019, pp. 1227-1232, doi: 10.1109/IWCMC.2019.8766698.
 ---
-This paper is about the number 2. The number 3 is left for future work.
+* Abstract:
+Traffic congestion is a widely recognized challenging problem that is increasingly growing around the world. This paper leverages ARIMA-based modeling to study some factors that significantly affect the rate of traffic congestion. We present a short-term time series model for non-Gaussian traffic data. The model helps decision-makers to better manage traffic congestion by capturing and predicting any abnormal status. We begin by highlighting the characteristics and structure of the dataset that negatively impact the performance of time series analysis. We use R to preprocess and prepare the dataset for the modeling phase. We use the widely adopted ARIMA model to analyze and predict the traffic flow observations, measured at an hourly-basis, in a designated area of study in California, USA. Several ARIMA models are built using ACF and PACF analysis of the traffic time series to compare with the model suggested by the auto.arima function provided by the R language that uses random walk with drift. The residual obtained from our model demonstrates high performance in predicting future traffic status.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore-ieee-org.uproxy.library.dc-uoit.ca/stamp/stamp.jsp?tp=&arnumber=8766698)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 'T. Alghamdi, K. Elgazzar, M. Bayoumi, T. Sharaf and S. Shah, "Forecasting Traffic Congestion Using ARIMA Modeling," 2019 15th International Wireless Communications & Mobile Computing Conference (IWCMC), Tangier, Morocco, 2019, pp. 1227-1232, doi: 10.1109/IWCMC.2019.8766698.'.
