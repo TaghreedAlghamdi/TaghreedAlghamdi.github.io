@@ -1,5 +1,5 @@
 ---
-title: "Forecasting Traffic Congestion Using ARIMA Modeling"
+title: "Forecasting Traffic Congestion Using ARIMA Modeling1 "
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper leverages ARIMA-based modeling to study some factors that significantly affect the rate of traffic congestion. We present a short-term time series model for non-Gaussian traffic data. The model helps decision-makers to better manage traffic congestion by capturing and predicting any abnormal status. We begin by highlighting the characteristics and structure of the dataset that negatively impact the performance of time series analysis.'
