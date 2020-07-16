@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Publications & Projects"
+title: "Publications"
 permalink: /publications/
 author_profile: true
-header:
-  image: "/images/datascience.jpg"
 ---
 
 {% if author.googlescholar %}
