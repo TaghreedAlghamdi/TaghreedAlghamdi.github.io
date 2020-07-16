@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+The focuses of her research to identify the best practices for managing big data within a community, while implementing a comprehensive plan for growth in a traffic region.
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
