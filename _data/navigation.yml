@@ -2,8 +2,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Wrangling Projects"
-    url: /data-wrangling/
   - title: "Publications"
     url: /publications/
   - title: "CV"
