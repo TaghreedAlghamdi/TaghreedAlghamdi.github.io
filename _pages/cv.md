@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "C.V"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -34,16 +34,17 @@ Work experience
 * Lecturer & Academic Advisor at Al-Baha University
   * Supervising the activities of the Seventh Scientific Conference of Al-Baha University in the Faculty of Computing and Information Systems.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer-related skills
+  * RStudio, SPAA, Weka, R-Statistics, SAS Enterprise Miner, Eclipse, Android mobile programming, C, C++, Visual Basic, Visual C++, Java, JavaScript, HTML, SQL, Oracle, MySQL, Verilog language, Pascal, Prolog.
+* Soft skills
+    * The ability to lead, motivate and stimulate others to achieve goals and inspire change.
+    * Ability to communicate with people at all levels.
+    * Think of original, unusual, or creative ways to solve problems.
+
+* Languages
+  * Arabic (Native)
+  * English (Fluent) 
