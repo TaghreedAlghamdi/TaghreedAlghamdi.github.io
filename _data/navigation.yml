@@ -6,8 +6,8 @@ main:
     url: /data-wrangling/
   - title: "Publications"
     url: /publications/
-      - title: "Publications & Projects"
-        url: /publications1/
+  - title: "Publications & Projects"
+    url: /publications1/
   - title: "C.V"
     url: /cv/
   - title: "Teaching"
